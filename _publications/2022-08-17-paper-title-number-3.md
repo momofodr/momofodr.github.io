@@ -9,7 +9,7 @@ year: 2022
 venue: 'Uncertainty in Artificial Intelligence'
 venue-abbr: 'UAI'
 venue-type: 'proceedings'
-publisherurl: 'https://ieeexplore.ieee.org/document/9174020'
+publisherurl: 'https://proceedings.mlr.press/v180/yin22b.html'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: ['Ming Yin', 'Wenjing Chen', 'Mengdi Wang', 'Yu-xaing Wang']
 ---
