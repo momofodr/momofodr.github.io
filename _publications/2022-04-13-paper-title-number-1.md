@@ -1,8 +1,8 @@
 ---
 title: "On Top-k Selection from m-wise Partial Rankings via Borda Counting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-pages: 000
+permalink: /publication/2022-04-13-paper-title-number-1
+pages: 2031--2045
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 year: 2022
 venue: 'IEEE Transaction on Signal Processing'

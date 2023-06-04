@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, GitHub University, 2015-2019
+* B.S. in Applied Mathematics, University of Science and Technology of China (USTC), 2015-2019
 * M.S. in Electrical Engineering, Texas A&M University, 2019-2022
-* Ph.D in Computer Science, GitHub University, 2022-present 
+* Ph.D in Computer Science, Texas A&M University, 2022-present 
 
 Research experience
 ======
-* Summer 2022
-  * Texas a&m University
+* Summer 2022 - present
+  * Submodular maximization
+
+* Summer 2022 - Spring 2023
   * Motion planning in robotics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2021 - Summer 2022
+  * Offline goal-oriented reinforcement learning (stochastic shortest path)
+
+* Fall 2021
+  * Proving theoretical lower bound in coding theory with large-scale linear programming
+
+* Spring 2019 - Fall 2020
+  * $m$-wise partial ranking and data aggregation
+   
 Skills
 ======
 * C/C++, Matlab, Python, Mathematica
