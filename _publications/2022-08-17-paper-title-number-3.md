@@ -4,18 +4,18 @@ title: "Offline stochastic shortest path: Learning, evaluation and towards optim
 collection: publications
 permalink: /publication/2022-08-17-paper-title-number-3
 pages: 2278--2288
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: This paper is on offline goal-oriented reinforcement learning.
 year: 2022
 venue: 'Uncertainty in Artificial Intelligence'
 venue-abbr: 'UAI'
 venue-type: 'proceedings'
 publisherurl: 'https://proceedings.mlr.press/v180/yin22b.html'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-authors: ['Ming Yin', 'Wenjing Chen', 'Mengdi Wang', 'Yu-xaing Wang']
+citation: 'Ming Yin, Wenjing Chen, Mengdi Wang, and Yu-xaing Wang. (2022). &quot;Offline stochastic shortest path: Learning, evaluation and towards optimality.&quot; <i>Uncertainty in Artificial Intelligence (UAI) 1</i>. 1(1).'
+authors: ['Ming Yin', 'Wenjing Chen', 'Mengdi Wang', 'Yu-Xiang Wang']
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<!-- This paper is about the number 3. The number 4 is left for future work. -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
 
