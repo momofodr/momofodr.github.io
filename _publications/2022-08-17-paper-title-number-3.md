@@ -7,6 +7,7 @@ pages: 2278--2288
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 year: 2022
 venue: 'Uncertainty in Artificial Intelligence'
+venue-abbr: 'UAI'
 venue-type: 'proceedings'
 publisherurl: 'https://ieeexplore.ieee.org/document/9174020'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

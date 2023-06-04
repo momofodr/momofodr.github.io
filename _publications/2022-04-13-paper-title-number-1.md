@@ -1,4 +1,5 @@
 ---
+index: chen2022top
 title: "On Top-k Selection from m-wise Partial Rankings via Borda Counting"
 collection: publications
 permalink: /publication/2022-04-13-paper-title-number-1
