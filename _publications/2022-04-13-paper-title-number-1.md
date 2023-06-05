@@ -9,7 +9,7 @@ year: 2022
 venue: 'IEEE Transaction on Signal Processing'
 venue-type: 'article'
 publisherurl: 'https://ieeexplore.ieee.org/document/9174020'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wenjing Chen, Ruida Zhou, Chao Tian, 'Cong Shen. (2022). &quot;On Top-k Selection from m-wise Partial Rankings via Borda Counting.&quot; <i>IEEE Transaction on Signal Processing</i>.'
 authors: ['Wenjing Chen', 'Ruida Zhou', 'Chao Tian', 'Cong Shen']
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->

@@ -10,7 +10,7 @@ venue: 'Uncertainty in Artificial Intelligence'
 venue-abbr: 'UAI'
 venue-type: 'proceedings'
 publisherurl: 'https://proceedings.mlr.press/v180/yin22b.html'
-citation: 'Ming Yin, Wenjing Chen, Mengdi Wang, and Yu-xaing Wang. (2022). &quot;Offline stochastic shortest path: Learning, evaluation and towards optimality.&quot; <i>Uncertainty in Artificial Intelligence (UAI) </i>.'
+citation: 'Ming Yin, Wenjing Chen, Mengdi Wang, and Yu-Xiang Wang. (2022). &quot;Offline stochastic shortest path: Learning, evaluation and towards optimality.&quot; <i>Uncertainty in Artificial Intelligence (UAI) </i>.'
 authors: ['Ming Yin', 'Wenjing Chen', 'Mengdi Wang', 'Yu-Xiang Wang']
 ---
  <!-- This paper is on offline goal-oriented reinforcement learning. -->

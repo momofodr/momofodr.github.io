@@ -10,7 +10,7 @@ venue: 'IEEE International Symposium on Information Theory'
 venue-abbr: 'ISIT'
 venue-type: 'proceedings'
 publisherurl: 'https://ieeexplore.ieee.org/abstract/document/9834469'
-citation: 'Chen, Wenjing, and Chao Tian. (2009). &quot;A New Approach to Compute Information Theoretic Outer Bounds and Its Application to Regenerating Codes.&quot; <i>ISIT</i>.'
+citation: 'Wenjing Chen, and Chao Tian. (2009). &quot;A New Approach to Compute Information Theoretic Outer Bounds and Its Application to Regenerating Codes.&quot; <i>IEEE International Symposium on Information Theory</i>.'
 authors: ['Wenjing Chen', 'Chao Tian']
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
