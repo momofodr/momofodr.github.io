@@ -2,7 +2,7 @@
 index: chen2022new
 title: "A New Approach to Compute Information Theoretic Outer Bounds and Its Application to Regenerating Codes"
 collection: publications
-permalink: /publication/2022-08-17-paper-title-number-3
+permalink: /publication/2022-06-26-paper-title-number-2
 pages: 2619--2624
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 year: 2022
@@ -10,7 +10,7 @@ venue: 'IEEE International Symposium on Information Theory'
 venue-abbr: 'ISIT'
 venue-type: 'proceedings'
 publisherurl: 'https://ieeexplore.ieee.org/abstract/document/9834469'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: ['Wenjing Chen', 'Chao Tian']
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
