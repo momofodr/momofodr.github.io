@@ -21,9 +21,7 @@ authors: ['Ming Yin', 'Wenjing Chen', 'Mengdi Wang', 'Yu-Xiang Wang']
 
 {% include base_path %}
 
-{%- if page.excerpt -%}
-  ({{page.excerpt}})<br>
-{%- endif -%}
+
 
 {%- if page.pages -%}
   {%- for author in page.authors -%}
