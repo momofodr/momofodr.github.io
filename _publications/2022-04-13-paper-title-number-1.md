@@ -20,9 +20,7 @@ authors: ['Wenjing Chen', 'Ruida Zhou', 'Chao Tian', 'Cong Shen']
 
 {% include base_path %}
 
-{%- if page.excerpt -%}
-  ({{page.excerpt}})<br>
-{%- endif -%}
+
 
 {%- if page.pages -%}
   {%- for author in page.authors -%}

@@ -4,13 +4,13 @@ title: "A New Approach to Compute Information Theoretic Outer Bounds and Its App
 collection: publications
 permalink: /publication/2022-06-26-paper-title-number-2
 pages: 2619--2624
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 year: 2022
 venue: 'IEEE International Symposium on Information Theory'
 venue-abbr: 'ISIT'
 venue-type: 'proceedings'
 publisherurl: 'https://ieeexplore.ieee.org/abstract/document/9834469'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Chen, Wenjing, and Chao Tian. (2009). &quot;A New Approach to Compute Information Theoretic Outer Bounds and Its Application to Regenerating Codes.&quot; <i>ISIT</i>.'
 authors: ['Wenjing Chen', 'Chao Tian']
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
@@ -21,9 +21,6 @@ authors: ['Wenjing Chen', 'Chao Tian']
 
 {% include base_path %}
 
-{%- if page.excerpt -%}
-  ({{page.excerpt}})<br>
-{%- endif -%}
 
 {%- if page.pages -%}
   {%- for author in page.authors -%}
