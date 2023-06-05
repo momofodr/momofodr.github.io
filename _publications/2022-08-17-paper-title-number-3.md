@@ -4,7 +4,7 @@ title: "Offline stochastic shortest path: Learning, evaluation and towards optim
 collection: publications
 permalink: /publication/2022-08-17-paper-title-number-3
 pages: 2278--2288
-excerpt:
+# excerpt:
 year: 2022
 venue: 'Uncertainty in Artificial Intelligence'
 venue-abbr: 'UAI'
