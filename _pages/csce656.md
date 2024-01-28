@@ -9,48 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Why I'm in this class
 ======
-* B.S. in Applied Mathematics, University of Science and Technology of China (USTC), 2015-2019
-* M.S. in Electrical Engineering, Texas A&M University, 2019-2022
-* Ph.D in Computer Science, Texas A&M University, 2022-present 
-
-Research experience
-======
-* Summer 2022 - present
-  * Submodular maximization
-
-* Summer 2022 - Spring 2023
-  * Motion planning in robotics
-
-* Fall 2021 - Summer 2022
-  * Offline goal-oriented reinforcement learning (stochastic shortest path)
-
-* Fall 2021
-  * Proving theoretical lower bound in coding theory with large-scale linear programming
-
-* Spring 2019 - Fall 2020
-  * $m$-wise partial ranking and data aggregation
-   
-Skills
-======
-* C/C++, Matlab, Python, Mathematica
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* I'm interested in how the rapid advancements in technology influence communication and new media.
+* It is required that every student in the Ph.D. program in computer science should take a course under the software engineering track.
   
-
-Teaching
+List of media I frequently use
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Reviewer 
-======  
-* Spring 2022 
-  * Reviewer for UAI 2022
+* Moving images
+  * Television
+    * Dramas
+      * Blossoms Shanghai
+      * How I met your mother
+      * The Knockout
+    * Documentary
+      * Blue Planet
+      * Wild China 
