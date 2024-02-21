@@ -31,4 +31,4 @@ A potential challenge
 
 A Link
 ======
-[hw2](https://momofodr.github.io/csce656/hw2)
+Link to [assignment2](https://momofodr.github.io/csce656/hw2)
