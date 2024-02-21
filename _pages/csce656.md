@@ -32,5 +32,3 @@ A potential challenge
 A Link
 ======
 [hw2](https://momofodr.github.io/csce656/hw2)
-[hw3](https://momofodr.github.io/csce656/hw3)
-[hw4](https://momofodr.github.io/hw4)
