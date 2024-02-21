@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CSCE656: Computers and New Media"
-permalink: /csce656/
+permalink: /csce656/index
 author_profile: true
 ---
 
