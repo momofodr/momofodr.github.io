@@ -3,8 +3,6 @@ layout: archive
 title: "CSCE656: Computers and New Media"
 permalink: /csce656/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
