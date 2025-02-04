@@ -14,4 +14,4 @@ My research includes combinatorial optimization (especially submodular maximizat
 
 News
 ======
-### -(01/22/2025). Two papers are accepted by [A1stats2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EM6QsYgAAAAJ&citation_for_view=EM6QsYgAAAAJ:WF5omc3nYNoC) and [ICLR2025](https://openreview.net/forum?id=ULorFBST6X&referrer=%5Bthe%20profile%20of%20Wenjing%20Chen%5D(%2Fprofile%3Fid%3D~Wenjing_Chen1)).
+### -(01/22/2025). Two papers are accepted by [Aistats2025](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EM6QsYgAAAAJ&citation_for_view=EM6QsYgAAAAJ:WF5omc3nYNoC) and [ICLR2025](https://openreview.net/forum?id=ULorFBST6X&referrer=%5Bthe%20profile%20of%20Wenjing%20Chen%5D(%2Fprofile%3Fid%3D~Wenjing_Chen1)).
