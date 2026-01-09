@@ -19,13 +19,12 @@ Selected Research Experience
 ======
 My research spans optimization theory, machine learning, and practical AI systems, with focus on fairness, efficiency, and multi-agent learning.
 
-* **Multi-agent Joint Training in Large Language Models** | *Fall 2025 – Present*
-* **Data Selection in Vision Language Models** | *Summer 2025 – Present*
-* **Fairness in Submodular Optimization** | *Fall 2023 – Fall 2024*
-* **Submodular Maximization under Noisy Feedback** | *Summer 2023 – Spring 2025*
-* **Uncertainty in Motion Planning for Autonomous Driving** | *Summer 2022 – Spring 2023*
-* **Goal-oriented Reinforcement Learning** | *Fall 2021 – Summer 2022*
-* **Partial Ranking Data Aggregation** | *Fall 2019 – Fall 2020*
+* **Fall 2025 – present: Multi-agent Joint Training in Large Language Models**
+* **Summer 2025 – present: Quantization in Large Language Models**
+* **Fall 2023 – present: Fairness in Submodular Optimization**
+* **Summer 2022 – Spring 2023: Uncertainty in Motion Planning for Autonomous Driving**
+* **Fall 2021 – Summer 2022: Goal-oriented Reinforcement Learning**
+* **Fall 2019 – Fall 2020: Partial Ranking Data Aggregation**
 
 Work Experience
 ======
