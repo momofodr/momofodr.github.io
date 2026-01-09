@@ -32,11 +32,11 @@ Below is a list of selected publications. For a complete list, please visit my <
 
 ---
 
-### 2024
+### 2023
 
 **Bicriteria Approximation Algorithms for the Submodular Cover Problem**  
 **Wenjing Chen**, Victoria G. Crawford  
-*Neural Information Processing Systems (NeurIPS), 2024*  
+*Neural Information Processing Systems (NeurIPS), 2023*  
 [[arXiv]](https://arxiv.org/abs/2309.14558)
 
 ---
