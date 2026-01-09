@@ -58,9 +58,3 @@ Ming Yin\*, **Wenjing Chen**\*, Mengdi Wang, Yu-Xiang Wang
 *Conference on Uncertainty in Artificial Intelligence (UAI), 2022*  
 *\*Equal contribution*  
 [[Paper]](https://proceedings.mlr.press/v180/yin22b.html) [[arXiv]](https://arxiv.org/abs/2206.04921)
-
----
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
